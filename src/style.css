@@ -4,3 +4,13 @@ body {
   font-family: "Figtree", sans-serif;
   background-color: azure;
 }
+
+
+.card {
+  min-height: 100%;
+  transition: transform 0.2s;
+}
+.card:hover {
+  transform: scale(1.02);
+  background: linear-gradient(to bottom, #d7d8da, transparent);
+}

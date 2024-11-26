@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      shuffle-array:
+        specifier: ^1.0.1
+        version: 1.0.1
     devDependencies:
       vite:
         specifier: ^5.4.10
@@ -272,6 +276,9 @@ packages:
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
 
+  shuffle-array@1.0.1:
+    resolution: {integrity: sha512-0TFRU8zVQaLatWKr0/czo19VyPNgb/a3sBc1GAjVfivfzEGaS54vueNgtAu/8/pW7EM/VF5fwq9zgpLdGyRmVw==}
+
   source-map-js@1.2.1:
     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
     engines: {node: '>=0.10.0'}
@@ -496,6 +503,8 @@ snapshots:
       '@rollup/rollup-win32-ia32-msvc': 4.25.0
       '@rollup/rollup-win32-x64-msvc': 4.25.0
       fsevents: 2.3.3
+
+  shuffle-array@1.0.1: {}
 
   source-map-js@1.2.1: {}
 
