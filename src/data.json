@@ -96,7 +96,7 @@
     "registration": 2020
   },
   {
-    "id": "d471d690-165f-43c2-95c2-735eb51d07d6'",
+    "id": "8ffb46ee-0545-442b-89dd-6fd4c7d24df5",
     "name": "  2019 LAND ROVER RANGE ROVER VOGUE LWB",
     "price":13900000 ,
     "img": "https://cdn.bigboytoyz.com/new-version/products/product/whatsapp-image-2024-09-09-at-4.59.42-pm.jpeg",
@@ -104,11 +104,19 @@
     "registration": 2019
   },
   {
-    "id": "d471d690-165f-43c2-95c2-735eb51d07d6'",
+    "id": "d471d690-165f-43c2-95c2-735eb51d07d6",
     "name": "2023 Porsche Cayenne Coupe MY24",
     "price":15500000 ,
     "img": "https://cdn.bigboytoyz.com/new-version/products/product/2023-porsche-cayenne-coupe-my24-blackkk-1.jpeg",
     "url": "https://www.bigboytoyz.com/used-luxury-cars/porsche-cayenne-coupe-detail-page",
     "registration": 2023
+  },
+  {
+    "id": "0464f10d-b4a4-4050-b6da-1a387f568eb9",
+    "name": "2018 Jaguar F Pace Prestige",
+    "price":33000000 ,
+    "img": "https://cdn.bigboytoyz.com/new-version/products/product/bbtjjfc.jpg",
+    "url": "https://www.bigboytoyz.com/used-luxury-cars/jaguar-f-pace-prestige-4-detail-page",
+    "registration": 2018
   }
-]
+  ]
